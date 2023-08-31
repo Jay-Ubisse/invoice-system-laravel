@@ -10,7 +10,7 @@
 >git clone https://github.com/Jay-Ubisse/invoice-system-laravel.git
 
 - Switch to the repo folder
->cd laravelnew
+>cd invoice-system-laravel
 
 - Install all the dependencies using composer
 >composer install
